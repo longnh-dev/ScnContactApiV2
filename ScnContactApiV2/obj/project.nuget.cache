@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "/KogZen37GFADGT9s9UzPQm0BawUY2JlTgi/i0u+ss9R5UGitdsA1gP5H0ic3KGqYCYpuVUQ+qDuA8h3qPqaRg==",
+  "success": true,
+  "projectFilePath": "/Users/nguyenhoanglong/RiderProjects/ScnContactApiV2/ScnContactApiV2/ScnContactApiV2.csproj",
+  "expectedPackageFiles": [
+    "/Users/nguyenhoanglong/.nuget/packages/dnsclient/1.4.0/dnsclient.1.4.0.nupkg.sha512",
+    "/Users/nguyenhoanglong/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/nguyenhoanglong/.nuget/packages/mongodb.bson/2.14.1/mongodb.bson.2.14.1.nupkg.sha512",
+    "/Users/nguyenhoanglong/.nuget/packages/mongodb.driver/2.14.1/mongodb.driver.2.14.1.nupkg.sha512",
+    "/Users/nguyenhoanglong/.nuget/packages/mongodb.driver.core/2.14.1/mongodb.driver.core.2.14.1.nupkg.sha512",
+    "/Users/nguyenhoanglong/.nuget/packages/mongodb.libmongocrypt/1.3.0/mongodb.libmongocrypt.1.3.0.nupkg.sha512",
+    "/Users/nguyenhoanglong/.nuget/packages/sharpcompress/0.30.1/sharpcompress.0.30.1.nupkg.sha512",
+    "/Users/nguyenhoanglong/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/nguyenhoanglong/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/nguyenhoanglong/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "/Users/nguyenhoanglong/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/nguyenhoanglong/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "/Users/nguyenhoanglong/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.12/microsoft.netcore.app.host.osx-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
